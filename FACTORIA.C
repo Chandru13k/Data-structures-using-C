@@ -1,5 +1,5 @@
 /*
-Name:Monish V
+Name:Chandru K
 Date:19/06/2024
 Program:Factorial using recursive funcion in C
 */
